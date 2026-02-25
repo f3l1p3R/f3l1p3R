@@ -4,6 +4,7 @@
 > Why to use
 ```
 1. simple
+2. Nice language to organize my ideas,and try upgrade on Mmy communication.
 
 ```
 
@@ -19,21 +20,31 @@
 >setup
  FAITH ✅
  PATIENCE...✅
- SPACE FROM MY SON... 
+ SPACE FROM MY SON LEARN ... ✅
+
 ```
 
 ✅mobile
-✅headset/✅toslink5.1/
+✅desktop computar { 
+(HTTPS://www.ubuntu.org)[Ubuntu 20.04]
+}. 
+❎screen1✅monitor1
+❎headset/❎toslink5.1/
 ✅nice table
-✅1chair
-  2chair
-✅ lúmens sens.
+✅1chair still only from Rocha's president
+❎2chair
+✅ lúmens sens
+❎Eletric structure {no-break,balance energy}
+
 
 ```
 >office
 ```
 ip-cam
 keyboard draw
-printer-3d
+printer-3d {}
+printer-cnc
+arduíno {DS-1032,Ledpin}
+✅ alexa assistent
 
 ```
