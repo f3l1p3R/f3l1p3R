@@ -40,6 +40,7 @@
 ```
 >office
 ```
+mic
 ip-cam
 keyboard draw
 printer-3d {///somado.mães.filho}
