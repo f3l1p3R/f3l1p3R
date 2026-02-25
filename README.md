@@ -42,7 +42,7 @@
 ```
 ip-cam
 keyboard draw
-printer-3d {}
+printer-3d {///somado.mães.filho}
 printer-cnc
 arduíno {DS-1032,Ledpin}
 ✅ alexa assistent
