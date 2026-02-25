@@ -25,8 +25,13 @@
 ```
 
 ✅mobile
-✅desktop computar { 
-(HTTPS://www.ubuntu.org)[Ubuntu 20.04]
+✅desktop computar >``
+(Intel® Pentium® G630 × 2)[]
+(https://ubuntu.com/)[Ubuntu 20.04.4LTS]
+RAM 10gb, last test feb/26
+
+`
+
 }. 
 ❎screen1✅monitor1
 ❎headset/❎toslink5.1/
