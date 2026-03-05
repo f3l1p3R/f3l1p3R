@@ -34,9 +34,10 @@ RAM 10gb, last test feb/26
 
 }. 
 ❎screen1✅monitor1
-❎headset/❎toslink5.1/
+❎headset/✅toslink5.1/
 ✅nice table
 ✅1chair still only from Rocha's president
+❎ergonomia chair with keyboard's table
 ❎2chair
 ✅ lúmens sens
 ❎Eletric structure {no-break,balance energy}
