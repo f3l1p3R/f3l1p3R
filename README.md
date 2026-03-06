@@ -46,11 +46,12 @@ RAM 10gb, last test feb/26
 ```
 >office
 ```
-ip-cam
-keyboard draw
-printer-3d {///somado.mães.filho}
-printer-cnc
-arduíno {DS-1032,Ledpin}
+♻️✅©UNO {servo,ds,16x2}
+❎access point{wom}
+❎ip-cam
+❎keyboard draw
+❎printer-3d {///somado.mães.filho}
+❎printer-cnc
 ✅ alexa assistent
 
 ```
