@@ -48,7 +48,10 @@ RAM 10gb, last test feb/26
 ```
 ♻️✅©UNO {servo,ds,16x2}
 ❎access point{wom}
-❎ip-cam
+✅ip-cam set {
+SN:
+
+}
 ❎keyboard draw
 ❎printer-3d {///somado.mães.filho}
 ❎printer-cnc
