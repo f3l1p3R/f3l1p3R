@@ -27,11 +27,8 @@
 ✅mobile
 ✅desktop computar >``
 (Intel® Pentium® G630 × 2)[]
-(https://ubuntu.com/)[Ubuntu 20.04.4LTS]
 RAM 10gb, last test feb/26
-
 `
-
 }. 
 ✅monitor1
 ❎headset/✅toslink5.1/
