@@ -30,7 +30,7 @@
 RAM 10gb, last test feb/26
 `
 }. 
-✅monitor1
+CRASH.  monitor1
 ❎headset/✅toslink5.1/
 ✅nice table
 ✅1chair still only from Rocha's president
