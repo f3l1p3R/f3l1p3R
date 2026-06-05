@@ -46,6 +46,7 @@ CRASH.  monitor1
 ♻️✅©UNO {servo,ds,16x2}
 ❎access point{wom}
 ✅ip-cam set {
+//- event on 22/05/2026 :(
 SN:
 
 }
